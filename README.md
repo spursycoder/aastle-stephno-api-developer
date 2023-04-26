@@ -1,6 +1,6 @@
 # Aastle Stephno API Developer Assignment for Steeleye
 
-Note: The API is deployed on render. Please go to https://trade-api-stephno.onrender.com/docs for testing.  
+Note: The API is deployed on render. Please go to https://trade-api-stephno.onrender.com/docs for testing. Initial loading time might be slow due the hosting being on free tier.
 
 # Objectives:
 This API is used to manage trade data and includes the following functionalities:
